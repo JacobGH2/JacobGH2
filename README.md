@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello!
+I am an aspiring software developer, currently pursuing an M.S. in Computer Science with a concentration in Artificial Intelligence at Binghamton University in Vestal, New York.
+
+
 
 <!--
 **JacobGH2/JacobGH2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
