@@ -9,9 +9,10 @@ I am an aspiring software developer, currently pursuing an M.S. in Computer Scie
 [Machine Learning Models](https://github.com/JacobGH2/Machine_Learning_Models)
 
 ### Papers/Technical Reports
+[Prime Generation and RSA Encryption](https://github.com/JacobGH2/PrimesEncryption) |
 [Airbnb NoSQL](https://github.com/JacobGH2/Airbnb_NoSQL_Paper) |
-[Algorithmic Composition](https://github.com/JacobGH2/AlgorithmicCompositonPaper) |
-[Prime Generation and RSA Encryption](https://github.com/JacobGH2/PrimesEncryption)
+[Algorithmic Composition](https://github.com/JacobGH2/AlgorithmicCompositonPaper)
+
 
 <!--
 **JacobGH2/JacobGH2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
