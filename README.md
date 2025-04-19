@@ -1,6 +1,8 @@
 # Hello!
 I am an aspiring software developer, currently pursuing an M.S. in Computer Science with a concentration in Artificial Intelligence at Binghamton University in Vestal, New York.
 
+[My Resume](https://drive.google.com/file/d/1jm3MMDF4FM9xAUflJkpwk3NG0hjVAqnX/view?usp=sharing)
+
 ## Here are some of my:
 
 ### Projects
